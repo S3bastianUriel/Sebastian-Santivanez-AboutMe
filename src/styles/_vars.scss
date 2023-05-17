@@ -1,0 +1,16 @@
+:root {
+    --gray: #EAEBF3;
+    --dark-gray: #A5A5A5;
+    --light-black: #7c7b7b;
+    --black: #000000;
+    --text-sm: 10px;
+    --text-md: 12px;
+    --text-lg: 14px;
+
+    --hover-white-filter: invert(95%)   hue-rotate(65deg) brightness(90%) ;
+    --hover-blue-filter:  invert(50%) sepia(12%) saturate(1413%) hue-rotate(165.6deg) brightness(94%) contrast(87%);
+
+
+    // filter: invert(95%) sepia(3%) saturate(3110%) hue-rotate(65deg) brightness(90%) contrast(87%);
+
+}
