@@ -9,10 +9,10 @@ const Menu = () => {
 					<a href="https://sebastiansantivanez.netlify.app/" className="title">HOME</a>
 				</li>
 				<li>
-					<a href="/aboutme">ABOUT ME</a>
+					<a href="/">ABOUT ME</a>
 				</li>
 				<li>
-					<a href="/projects">PROJECTS</a>
+					<a href="/https://sebastiansantivanez-projects.netlify.app/">PROJECTS</a>
 				</li>
 			</ul>
 		</div>
