@@ -43,7 +43,7 @@ function Header() {
                     {/* <ul> */}
                         <a href="https://sebastiansantivanez.netlify.app/">Home</a>
                         <a href="/" >About me</a>
-                        <a href="/https://sebastiansantivanez-projects.netlify.app/" >Projects</a>
+                        <a href="https://sebastiansantivanez-projects.netlify.app/" >Projects</a>
                     </ul>
                 </div>
             </div>

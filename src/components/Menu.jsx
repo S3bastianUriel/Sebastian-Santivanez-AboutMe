@@ -12,7 +12,7 @@ const Menu = () => {
 					<a href="/">ABOUT ME</a>
 				</li>
 				<li>
-					<a href="/https://sebastiansantivanez-projects.netlify.app/">PROJECTS</a>
+					<a href="https://sebastiansantivanez-projects.netlify.app/" className="title">PROJECTS</a>
 				</li>
 			</ul>
 		</div>
